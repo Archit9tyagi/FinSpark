@@ -13,7 +13,7 @@ export default function Navbar({ activePage, onNavigate }) {
           <div className="nav-brand-icon">
             <span className="material-symbols-outlined">bolt</span>
           </div>
-          <span className="nav-brand-name">FinSpark AI</span>
+          <span className="nav-brand-name">FinBridge AI</span>
         </div>
         <div className="nav-links">
           {pages.map(p => (

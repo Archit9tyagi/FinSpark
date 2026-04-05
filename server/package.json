@@ -1,7 +1,7 @@
 {
-  "name": "finspark-server",
+  "name": "finbridge-server",
   "version": "1.0.0",
-  "description": "FinSpark Backend API Server",
+  "description": "FinBridge Backend API Server",
   "main": "src/app.js",
   "type": "module",
   "scripts": {

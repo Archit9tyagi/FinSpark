@@ -8,7 +8,7 @@ export default function Footer() {
               <div className="nav-brand-icon" style={{ width: '1.25rem', height: '1.25rem' }}>
                 <span className="material-symbols-outlined" style={{ fontSize: '0.625rem', fontVariationSettings: "'FILL' 1" }}>bolt</span>
               </div>
-              <span style={{ fontFamily: 'var(--font-mono)', fontWeight: 700, color: 'var(--primary-container)' }}>FinSpark AI</span>
+              <span style={{ fontFamily: 'var(--font-mono)', fontWeight: 700, color: 'var(--primary-container)' }}>FinBridge AI</span>
             </div>
             <p style={{ fontSize: '0.75rem', color: 'var(--outline)', lineHeight: 1.7, maxWidth: '20rem' }}>
               Enterprise-grade configuration synthesis for the modern core banking engine. Zero-trust by design, AI-powered by necessity.
@@ -43,7 +43,7 @@ export default function Footer() {
         </div>
         <div className="footer-bottom">
           <div className="footer-bottom-links">
-            <span>© 2026 FinSpark AI. Enterprise Grade.</span>
+            <span>© 2026 FinBridge AI. Enterprise Grade.</span>
             <a href="#">Security Policy</a>
             <a href="#">System Status</a>
             <a href="#">Audit Trail</a>

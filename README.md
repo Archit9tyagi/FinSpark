@@ -1,8 +1,8 @@
-# ⚡ FinSpark AI — BRD-to-Config Generator for Core Banking
+# ⚡ FinBridge AI — BRD-to-Config Generator for Core Banking
 
 > AI-Powered Integration Configuration Generator that converts Business Requirement Documents (BRDs) into secure, production-ready API gateway configurations for India's Core Banking ecosystem.
 
-![FinSpark Demo](docs/screenshot.png)
+![FinBridge Demo](docs/screenshot.png)
 
 ## 🏗️ Architecture
 
@@ -31,8 +31,8 @@
 ### Setup
 ```bash
 # Clone & Install
-git clone https://github.com/Archit9tyagi/FinSpark.git
-cd FinSpark
+git clone https://github.com/Archit9tyagi/FinBridge.git
+cd FinBridge
 
 # Install all dependencies
 npm install
@@ -100,7 +100,7 @@ Open http://localhost:5173 in your browser.
 ## 📁 Project Structure
 
 ```
-FinSpark/
+FinBridge/
 ├── client/                     # React Frontend
 │   ├── src/
 │   │   ├── components/         # Navbar, Footer

@@ -47,7 +47,7 @@ app.get('/api/health', (req, res) => {
 });
 
 app.listen(PORT, () => {
-  console.log(`\n⚡ FinSpark API Server running on port ${PORT}`);
+  console.log(`\n⚡ FinBridge API Server running on port ${PORT}`);
   console.log(`   Health: http://localhost:${PORT}/api/health\n`);
 });
 

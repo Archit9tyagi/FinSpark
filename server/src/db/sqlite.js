@@ -8,7 +8,7 @@ const __dirname = dirname(__filename);
 let db;
 
 export function initDB() {
-  db = new Database(join(__dirname, '../../data/finspark.db'));
+  db = new Database(join(__dirname, '../../data/finbridge.db'));
   db.pragma('journal_mode = WAL');
 
   db.exec(`

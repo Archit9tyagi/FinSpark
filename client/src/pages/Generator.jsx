@@ -100,7 +100,7 @@ export default function Generator() {
     const url = URL.createObjectURL(blob);
     const a = document.createElement('a');
     a.href = url;
-    a.download = `finspark_${activeTab}_${environment.toLowerCase()}.${ext}`;
+    a.download = `finbridge_${activeTab}_${environment.toLowerCase()}.${ext}`;
     a.click();
     URL.revokeObjectURL(url);
   };
